@@ -1,0 +1,17 @@
+,time,r,i,j,k,gyro_reading,accel_reading,torques,wheel_rates,mag_vec,body_rates
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+9096,9096,1.00,,,0.00,nan,nan,nan,nan,nan,nan
+9303,9303,0.98,-0.15,-0.11,0.00,nan,nan,nan,nan,nan,nan
+9508,9508,0.96,-0.25,-0.13,0.00,nan,nan,nan,nan,nan,nan
+9714,9714,0.94,-0.27,-0.22,0.00,nan,nan,nan,nan,nan,nan
+9921,9921,0.93,-0.28,-0.25,0.00,nan,nan,nan,nan,nan,nan
+10127,10127,0.91,-0.28,-0.30,0.00,nan,nan,nan,nan,nan,nan
+10332,10332,0.90,-0.32,-0.28,0.00,nan,nan,nan,nan,nan,nan
+10539,10539,0.90,-0.32,-0.30,0.00,nan,nan,nan,nan,nan,nan
+10745,10745,0.89,-0.31,-0.32,0.00,nan,nan,nan,nan,nan,nan
+10951,10951,0.89,-0.33,-0.32,0.00,nan,nan,nan,nan,nan,nan
+11158,11158,0.89,-0.30,-0.33,0.00,nan,nan,nan,nan,nan,nan
+11364,11364,0.89,-0.31,-0.35,0.00,nan,nan,nan,nan,nan,nan
+11571,11571,0.88,-0.29,-0.38,0.00,nan,nan,nan,nan,nan,nan
+11777,11777,0.88,-0.29,-0.37,0.00,nan,nan,nan,nan,nan,nan
+11983,11983,0.88,-0.30,-0.36,0.00,nan,nan,nan,nan,nan,nan
