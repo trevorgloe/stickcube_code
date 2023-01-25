@@ -1,6 +1,8 @@
 ## stickcube-Arduino
 
-Arduino code for the CPCL project Stickcube
+Arduino/python code for the CPCL project Stickcube
+
+This code has been moved from the original repo upon the project not being associated with CPCL or ETOILES.
 
 ### Data formatting standards
 
